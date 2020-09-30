@@ -6,7 +6,7 @@ A Simple tic-tac-toe game built in ReactJS.
 To learn concepts like react context and react hooks.  
 
 ## In Development Stage
-This project is still in alpha development stage so bugs and crashes are to be expected.
+This project is still in alpha development stage so bugs and crashes are to be expected. Please contact me in case of any issues found.
 
 ### Installation
 
